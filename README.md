@@ -1,2 +1,2 @@
 # Codsoft-Python-Task-2
-TO-DO List made using python tkinter as a part of codsoft internship
+The Simple Calculator made by using the tkinter as a part of the codsoft internship
